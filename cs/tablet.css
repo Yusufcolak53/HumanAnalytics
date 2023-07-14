@@ -1,0 +1,69 @@
+#nav{
+    flex-direction: column;
+}
+#nav img{
+    width: 70%;
+    height: auto;
+    padding: 1rem 0 0 1rem ;
+    
+}
+
+
+.article{
+    flex-direction: column;
+    text-align: center;
+    
+   
+}
+.article img{
+    width: 100%;
+    height: auto;
+   padding: 40px 0px 0px 40px ;
+}
+.article h1{
+    font-size: 2.3rem;
+    padding: 0px 0px 0px 20px ;
+}
+.article p{
+    padding: 0px 0px 50px 20px ;
+}
+.references{
+    flex-direction: column;
+    text-align: center;
+}
+.references div{
+    padding: 10px 0px 10px 0px ;
+}
+.article-s{
+    flex-direction: column;
+}
+.article-s img{
+    width: 80%;
+    height: auto;
+    padding: 50px 0px 0px 30px ;
+}
+.article-m{
+    flex-direction: column;
+    padding-left: 2rem;
+
+}
+.article-m img{
+    width: 60%;
+    height: auto;
+    padding: 50px 0px 0px 20px ;
+}
+.blog{
+    flex-direction: column;
+}
+.blog div{
+    width: 80%;
+    height: auto;
+    margin-bottom: 50px;
+}
+.foother {
+    flex-direction: column;
+}
+.foother h5{
+    margin:20px 0px 0px 0px;
+}
+
